@@ -4,7 +4,7 @@ The [science.eclipse.org](https://science.eclipse.org) website is generated with
 
 This project is a work in progress. We are migrating the [current website](https://science.eclipse.org) to Hugo.
 
-The rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects.
+The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
 
 [![Build Status](https://travis-ci.org/eclipsefdn/science.eclipse.org.svg?branch=master)](https://travis-ci.org/eclipsefdn/science.eclipse.org)
 
