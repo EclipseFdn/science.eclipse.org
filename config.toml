@@ -1,0 +1,112 @@
+baseurl = "https://science.eclipse.org/"
+DefaultContentLanguage = "en"
+title = "Science"
+theme = "eclipsefdn-hugo-solstice-theme"
+metaDataFormat = "yaml"
+googleAnalytics = "UA-910670-30"
+disableKinds = []
+themesDir = "node_modules/"
+enableRobotsTXT = true
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable."
+  seo_title_suffix = " | The Eclipse Foundation"
+  keywords = ["science", "eclipse working groups"]
+  logo = "images/science/logo.png"
+  styles = "css/styles.css"
+  favicon = "images/science/favicon.ico"
+  share_img = "images/science/logo.png"
+  gcse = "011805775785170369411:p3ec0igo0qq"
+  js = "js/solstice.js"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  membership_level = "membership_levels"
+  participation_level = "participation_levels"
+
+[Author]
+  name = "Christopher Guindon"
+  website = "https://www.eclipse.org"
+  email = "webdev@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "EclipseFdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Members"
+    url = "/membership"
+    weight = "1"
+
+[[menu.main]]
+    name = "Explore our Members"
+    url = "/membership"
+    weight = "1"
+    parent = "Members"
+
+[[menu.main]]
+    name = "Become a Member"
+    url = "/membership/become-member"
+    weight = "1"
+    parent = "Members"
+
+[[menu.main]]
+    name = "Meetings"
+    url = "/meetings"
+    weight = "2"
+
+[[menu.main]]
+    name = "Steering Committee"
+    url = "/about/steering-committee"
+    weight = "3"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = "4"
+
+[[menu.main]]
+    name = "About Us"
+    url = "/about"
+    weight = "1"
+    parent = "About"
+
+[[menu.main]]
+    name = "Charter"
+    url = "/about/charter"
+    weight = "2"
+    parent = "About"
+
+[[menu.main]]
+    name = "Announcements"
+    url = "/categories/announcements"
+    weight = "3"
+    parent = "About"
+
+[[menu.main]]
+    name = "Community News"
+    url = "/categories/community-news"
+    weight = "4"
+    parent = "About"
+
+[[menu.main]]
+    name = "Staff"
+    url = "https://www.eclipse.org/org/foundation/staff.php"
+    weight = "5"
+    parent = "About"
+
+[[menu.main]]
+    name = "Discussion List"
+    url = "https://accounts.eclipse.org/mailing-list/science-iwg"
+    weight = "5"
+    parent = "About"

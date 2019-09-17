@@ -1,0 +1,32 @@
+defaultRight: |
+        <p>
+          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+            <polyline points="22,6 12,13 2,6"></polyline>
+          </svg>
+        </p>
+        <p>Sign up to our <br>Mailing list</p>
+        <p><a class="button btn btn-primary" href="https://accounts.eclipse.org/mailing-list/science-iwg">Subscribe</a></p>
+items:
+  -
+    title: Purpose
+    content: The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
+    link: <a class="btn btn-primary btn-lg" href="/about/">Learn More</a>
+    bgImgSrc: /images/science/default-story-banner.jpg
+    startDate: 2019-09-07
+    endDate: 2099-10-10
+
+    type: story
+
+  -
+    preamble: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+        <polyline points="22,6 12,13 2,6"></polyline> 
+      </svg>
+    title: Sign up to our Mailing list
+    footer_classes: background-secondary featured-footer featured-alternate
+    link: <a class="button btn btn-primary" href="https://accounts.eclipse.org/mailing-list/science-iwg">Subscribe</a>
+    startDate: 2019-07-18
+    endDate: 2099-10-10
+    type: footer
