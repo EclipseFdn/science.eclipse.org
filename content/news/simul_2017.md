@@ -2,7 +2,7 @@
 title: "The Eclipse Science 2017 Simultaneous Release is here!"
 date: 2017-10-17T07:10:34-04:00
 description: "The Eclipse Science simultaneous release is the annual release of Eclipse Science projects in 2017."
-categories: ["announcements"]
+categories: ["announcements", "community-news"]
 ---
 
 <div class="field-item even" property="content:encoded"><p>The Eclipse Science simultaneous release is the annual release of Eclipse Science projects in 2017. This year 5 projects are part of the release</p>
