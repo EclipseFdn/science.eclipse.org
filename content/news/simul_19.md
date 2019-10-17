@@ -16,11 +16,11 @@ release:
 <tr>
 <th>Project Name</th><th>Release Version</th><th>Download Link</th>
 </tr>
-<tr><td>Eclipse January</td><td>2.3.0</td><td>https://www.eclipse.org/january/#download</td></tr>
-<tr><td>Eclipse StateET</td><td>4.0.2</td><td>https://www.eclipse.org/statet/downloads/4.0.php</td></tr>
-<tr><td>Eclipse TeXlipse</td><td>2.0.2</td><td>http://download.eclipse.org/texlipse/2.0.2/</td></tr>
-<tr><td>Eclipse Triquetrum</td><td>0.3.0</td><td>https://wiki.eclipse.org/Triquetrum/Downloads</td></tr>
-<tr><td>Eclipse XACC</td><td>1.0.0</td><td>https://xacc.readthedocs.io/en/latest/</td></tr>
+<tr><td>Eclipse January</td><td>2.3.0</td><td><a href="https://www.eclipse.org/january/#download">https://www.eclipse.org/january/#download</a></td></tr>
+<tr><td>Eclipse StateET</td><td>4.0.2</td><td><a href="https://www.eclipse.org/statet/downloads/4.0.php">https://www.eclipse.org/statet/downloads/4.0.php</a></td></tr>
+<tr><td>Eclipse TeXlipse</td><td>2.0.2</td><td><a href="http://download.eclipse.org/texlipse/2.0.2/">http://download.eclipse.org/texlipse/2.0.2/</a></td></tr>
+<tr><td>Eclipse Triquetrum</td><td>0.3.0</td><td><a href="https://wiki.eclipse.org/Triquetrum/Downloads">https://wiki.eclipse.org/Triquetrum/Downloads</a></td></tr>
+<tr><td>Eclipse XACC</td><td>1.0.0</td><td><a href="https://xacc.readthedocs.io/en/latest/">https://xacc.readthedocs.io/en/latest/</a></td></tr>
 </table>         
               
 </div>
