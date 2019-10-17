@@ -10,7 +10,7 @@ release."
 
 <div>
 The Eclipse Science simultaneous release is the coordinated release of
-Eclipse Science projects in 2019. This year 4 projects are part of the
+Eclipse Science projects in 2019. This year 5 projects are part of the
 release:
 <table>
 <tr>
@@ -18,6 +18,7 @@ release:
 </tr>
 <tr><td>Eclipse January</td><td>2.3.0</td><td>https://www.eclipse.org/january/#download</td></tr>
 <tr><td>Eclipse StateET</td><td>4.0.2</td><td>https://www.eclipse.org/statet/downloads/4.0.php</td></tr>
+<tr><td>Eclipse TeXlipse</td><td>2.0.2</td><td>http://download.eclipse.org/texlipse/2.0.2/</td></tr>
 <tr><td>Eclipse Triquetrum</td><td>0.3.0</td><td>https://wiki.eclipse.org/Triquetrum/Downloads</td></tr>
 <tr><td>Eclipse XACC</td><td>1.0.0</td><td>https://xacc.readthedocs.io/en/latest/</td></tr>
 </table>         
@@ -47,7 +48,9 @@ console, R script editors, an integrated R graphics view and other
 features. This release is a maintenance release of StatET 4.0
 providing bug fixes and minor enhancements.
 </li>
-
+<li>
+<span style="font-size: 11pt; color: rgb(17, 85, 204); background-color: transparent; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="https://projects.eclipse.org/projects/science.texlipse">Eclipse TeXlipse</a></span> project provides an Eclipse extension to support LaTex projects, so that document preparation can be incorporated into the normal Eclipse development activities. General LaTeX users will also find the advanced editing and automatic document generation features of TeXclipse provide a compelling alternative to other LaTeX environments.
+</li>
 <li>
 <span style="font-size: 11pt; color: rgb(17, 85, 204); background-color: transparent; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;"><a href="https://wiki.eclipse.org/Triquetrum">Eclipse Triquetrum</a></span>, an open platform for managing and executing
 scientific workflows. The goal of Triquetrum is to support a wide
