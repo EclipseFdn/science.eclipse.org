@@ -12,4 +12,4 @@ hide_sidebar: true
 layout: "single"
 ---
 
-@todo
+{{< meeting_minutes >}}
