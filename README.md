@@ -1,8 +1,6 @@
 # science.eclipse.org
 
-The [science.eclipse.org](https://science.eclipse.org) website is generated with [Hugo](https://gohugo.io/documentation/).
-
-This project is a work in progress. We are migrating the [current website](https://science.eclipse.org) to Hugo.
+The [https://eclipsefdn-science.netlify.com](https://eclipsefdn-science.netlify.com) website is generated with [Hugo](https://gohugo.io/documentation/). This project is a work in progress. We are migrating the [current website](https://science.eclipse.org) to Hugo.
 
 The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
 
