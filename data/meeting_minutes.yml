@@ -1,5 +1,31 @@
 items:
-   Steering Committee_Meetings:
+   Project_Management_Committee_Meetings:
+     -
+       title: 2019.09.30
+       url: https://docs.google.com/document/d/1NaAiz73CDSl595vislQqkpJRdMxLIZnw9Ro6wXwChBw/edit
+     -
+       title: 2019.08.26
+       url: https://docs.google.com/document/d/1lDeGVFB9zSsh-rlcHr7jmY2uzG7_in5QhIxI9TicreU/edit
+     -
+       title: 2019.06.24
+       url: https://docs.google.com/document/d/1WW8pLgg2M23BeUh8-eiNs7nMhNhNnVrgJyGApf9-fcc/edit#heading=h.729tf9qppck8
+     -
+       title: 2019.02.06
+       url: https://docs.google.com/document/d/1QPfls2qH0zwUhleHDIM4YMB3BW8xeJoM5L0Po8s3j7Y/edit
+     -
+       title: 2017.04.13
+       url: https://docs.google.com/document/d/1TlW_njVwHMp4_q2Zo6CQLQsPwPxUvUYpktfL37eMqJM/edit
+     -
+       title: 2017.02.98
+       url: https://docs.google.com/document/d/1QPfls2qH0zwUhleHDIM4YMB3BW8xeJoM5L0Po8s3j7Y/edit
+     -
+       title: 2017.01.12
+       url: https://docs.google.com/document/d/1YQ-Bh7JDB9K6b4Lnrz9nznl3kjjUO-59nTj254rIuu8/edit
+     -
+       title: 2016.11.29
+       url: https://docs.google.com/document/d/1wfvjdkryVHSo1SYwVSzGV-BDWSBIvkB4loXAsvpMSjQ/edit
+
+   Steering_Committee_Meetings:
      -
        title: 2017.10.18
        url: minutes/SWG_SteeringCommitteeMeeting_2017.10.18.pdf
