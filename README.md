@@ -16,6 +16,8 @@ Install dependencies, build assets and start a webserver:
 npm install && hugo server
 ```
 
+You can find guidance on the page-level metadata [here](https://eclipsefdn.github.io/hugo-solstice-theme/), and examples of the assorted page types (components) [here](https://eclipsefdn.github.io/hugo-solstice-theme/components/).
+
 ## Contributing
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the [eclipsefdn/science.eclipse.org](https://github.com/eclipsefdn/science.eclipse.org) repository
