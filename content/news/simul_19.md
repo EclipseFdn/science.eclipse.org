@@ -4,7 +4,7 @@ date: 2019-10-16T16:31:34-04:00
 description: "The Eclipse Science 2019 Simultaneous Release is here"
 categories: ["community-news"]
 summary: "The Eclipse Science simultaneous release is the coordinated release of
-Eclipse Science projects in 2019. This year 4 projects are part of the
+Eclipse Science projects in 2019. This year 5 projects are part of the
 release."
 ---
 
