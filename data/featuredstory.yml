@@ -6,7 +6,7 @@ defaultRight: |
           </svg>
         </p>
         <p>Sign up to our <br>Mailing list</p>
-        <p><a class="button btn btn-primary" href="https://accounts.eclipse.org/mailing-list/science-iwg">Subscribe</a></p>
+        <p><a class="button btn btn-primary" href="https://accounts.eclipse.org/mailing-list/science-iwg" >Subscribe</a></p>
 items:
   -
     title: Purpose
@@ -15,7 +15,6 @@ items:
     bgImgSrc: /images/science/default-story-banner.jpg
     startDate: 2019-09-07
     endDate: 2099-10-10
-
     type: story
 
   -

@@ -21,7 +21,6 @@ enableRobotsTXT = true
   js = "js/solstice.js"
 
 [taxonomies]
-  category = "categories"
   tag = "tags"
   membership_level = "membership_levels"
   participation_level = "participation_levels"
@@ -35,9 +34,6 @@ enableRobotsTXT = true
   youtube = "EclipseFdn"
   googleplus = "+Eclipse"
   linkedin = "company/eclipse-foundation/"
-
-[permalinks]
-  news = "/:sections/:year/:month/:day/:slug/"
 
 [blackfriday]
   plainIDAnchors = true
