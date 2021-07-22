@@ -14,4 +14,4 @@ aliases:
   - /categories/community-news
 ---
 
-{{< news-display newsType="community_news" count="10" paginate="true" >}}
+{{< newsroom/news id="news-list-container" publishTarget="science" count="10" type="community_news" paginate="true" >}}

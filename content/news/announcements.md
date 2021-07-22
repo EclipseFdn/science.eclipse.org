@@ -14,4 +14,4 @@ aliases:
   - /categories/announcements
 ---
 
-{{< news-display newsType="announcements" count="10" paginate="true" >}}
+{{< newsroom/news id="news-list-container" publishTarget="science" count="10" type="announcements" paginate="true" >}}
