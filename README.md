@@ -4,8 +4,6 @@ The [https://eclipsefdn-science.netlify.com](https://eclipsefdn-science.netlify.
 
 The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
 
-[![Build Status](https://travis-ci.org/eclipsefdn/science.eclipse.org.svg?branch=master)](https://travis-ci.org/eclipsefdn/science.eclipse.org)
-
 ## Getting started
 
 Install dependencies, build assets and start a webserver:
