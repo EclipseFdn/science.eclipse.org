@@ -1,5 +1,12 @@
 # science.eclipse.org
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/science.eclipse.org) on March 14, 2022.
+
+---
+
 The [https://eclipsefdn-science.netlify.com](https://eclipsefdn-science.netlify.com) website is generated with [Hugo](https://gohugo.io/documentation/). This project is a work in progress. We are migrating the [current website](https://science.eclipse.org) to Hugo.
 
 The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
